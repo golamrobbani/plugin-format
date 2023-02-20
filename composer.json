@@ -1,0 +1,15 @@
+{
+    "name": "grpf/plugin-format",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Grpf\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Grpf"
+        }
+    ],
+    "require": {}
+}
